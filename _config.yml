@@ -78,15 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhibin Zhao"
+  name             : "Wendong Wang"
   avatar           : "DSC_0215.JPG"
-  bio              : "Ph.D. candidate, School of Mechanical Engineering, Xi'an Jiaotong University"
+  bio              : "Ph.D. Student, Science and Engineering, School of Physics and Astronomy, The University of Manchester"
   location         : "Manchester, UK"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=Dnq-8jEAAAAJ&hl=zh-CN"
-  email            : "zhaozhibin@stu.xjtu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Zhibin_Zhao5"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=PG6-lcYAAAAJ&hl=en"
+  email            : "wendong.wang@postgrad.manchester.ac.uk"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhaoZhibin"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
